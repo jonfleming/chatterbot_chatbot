@@ -1,0 +1,11 @@
+autopep8
+chatterbot
+keyboard
+nltk
+numpy
+pint
+pyyaml
+spacy
+  en-core-web-md
+  en-core-web-sm
+thinc
